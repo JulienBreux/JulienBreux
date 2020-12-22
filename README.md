@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align=center>Hey 👋 I'm Julien 🧑‍🚀</h1>
 
-<!--
-**JulienBreux/JulienBreux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center>
+  <a href=https://twitter.com/JulienBreux>Twitter</a> • 
+  <a href=https://dev.to/JulienBreux>Blog</a> • 
+  <a href=https://www.linkedin.com/in/JulienBreux>Linkedin</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😃 About
+
+I'm [Julien](https://golang.fr/) 👋, I'm Cloud Architect 🧑‍🚀 from Paris, France 🇫🇷.<br>
+I speak English 🇺🇸, French 🇫🇷 and Brazilian Portuguese 🇧🇷 !
+
+## 🎸 Main skills without bullshit
+
+- [Go](https://golang.org/)
+- [Kubernetes](https://kubernetes.io/)
+- [Istio](https://istio.io/)
+- [Terraform](https://terraform.io/)
+- [Google Cloud](https://cloud.google.com/)
+- •••
+
+---
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JulienBreux&theme=nord&column=8)](https://github.com/JulienBreux/github-profile-trophy)
