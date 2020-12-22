@@ -25,5 +25,5 @@ I speak English 🇺🇸, French 🇫🇷 and Brazilian Portuguese 🇧🇷 !
 ---
 
 <p align=center>
-  <a href=https://github.com/JulienBreux/><img src=https://github-profile-trophy.vercel.app/?username=JulienBreux&theme=nord&column=8 alt=Trophy></a>
+  <a href=https://github.com/JulienBreux/><img src=https://github-profile-trophy.vercel.app/?username=JulienBreux&theme=nord&column=7 alt=Trophy></a>
 </p>
