@@ -2,7 +2,7 @@
 
 <p align=center>
   <a href=https://twitter.com/JulienBreux>Twitter</a> • 
-  <a href=https://dev.to/JulienBreux>Blog</a> • 
+  <!-- <a href=https://dev.to/JulienBreux>Blog</a> • -->
   <a href=https://www.linkedin.com/in/JulienBreux>Linkedin</a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## 😃 About
 
-I'm [Julien](https://golang.fr/) 👋, I'm Cloud Architect 🧑‍🚀 from Paris, France 🇫🇷.<br>
+I'm [Julien](https://golang.fr/) 👋, I'm Software Engineer 🧑‍🚀 from Paris, France 🇫🇷.<br>
 I speak English 🇺🇸, French 🇫🇷 and Brazilian Portuguese 🇧🇷 !
 
 ## 🎸 Main skills without bullshit
@@ -25,5 +25,5 @@ I speak English 🇺🇸, French 🇫🇷 and Brazilian Portuguese 🇧🇷 !
 ---
 
 <p align=center>
-  <a href=https://github.com/JulienBreux/><img src=https://github-profile-trophy.vercel.app/?username=JulienBreux&theme=nord&column=7 alt=Trophy></a>
+  <a href=https://github.com/JulienBreux/><img src=https://github-profile-trophy.vercel.app/?username=JulienBreux&column=4 alt=Trophy></a>
 </p>
